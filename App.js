@@ -23,7 +23,6 @@ function BottomTabNavigator() {
         backgroundColor: "#24180f",
         sceneContainerStyle: { backgroundColor: "#6C7D87" },
         tabBarStyle: {
-          // backgroundColor: 'black',
         },
       }}
     >
