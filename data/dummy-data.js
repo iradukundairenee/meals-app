@@ -318,12 +318,12 @@ export const MEALS = [
       '30g Pine Nuts',
       '300g Cherry Tomatoes',
       'Salad',
-      'Salt, Pepper and Olive Oil'
+      'Salt, Pepper and'
     ],
     [
       'Wash, peel and cut the asparagus',
       'Cook in salted water',
-      'Salt and pepper the asparagus',
+      'Salt and pepper',
       'Roast the pine nuts',
       'Halve the tomatoes',
       'Mix with asparagus, salad and dressing',
